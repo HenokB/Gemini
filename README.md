@@ -1,1 +1,1 @@
-# Dive into the world of Generative AI with Gemini
+# Dive into the world of LLMs with Gemini
